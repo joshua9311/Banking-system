@@ -2,7 +2,7 @@
 
 A fully functional **Banking Management System** that runs entirely in the browser. No server, no backend, no installation — just open `index.html`.
 
-**[→ Live Demo](https://your-username.github.io/vault-banking)** *(replace with your GitHub Pages URL)*
+**[→ Live Demo](https://joshua9311.github.io/vault-banking)** 
 
 ---
 
